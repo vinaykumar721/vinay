@@ -12,6 +12,8 @@ touch english.txt
 touch maths.txt
 touch science.txt
 ls
+ls
+ls
 pwd
 cd -
 ls -l
